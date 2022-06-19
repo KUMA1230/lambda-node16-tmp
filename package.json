@@ -1,0 +1,7 @@
+{
+  "name": "lambda-node16-tmp",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
